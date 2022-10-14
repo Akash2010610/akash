@@ -1,0 +1,29 @@
+body{
+  background-image: url(ll.jpg);
+  
+}
+
+.sp{
+  
+  border-radius: 20px;
+  width: 600px;
+  height: 40px;
+}
+
+.al{
+  box-shadow: 20%;
+  margin: auto;
+  width: 600px;
+  height:300px;
+}
+
+.lpo{
+  width: 100px;
+  height:100px;
+  margin-right: 450px;
+  margin-left: 200px
+}
+
+h2{
+  margin-left: 200px;
+}
